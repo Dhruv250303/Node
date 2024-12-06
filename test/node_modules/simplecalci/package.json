@@ -1,5 +1,5 @@
 {
-  "name": "npm",
+  "name": "simplecalci",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,9 +7,5 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "figlet": "^1.8.0",
-    "npm": "file:"
-  }
+  "description": ""
 }

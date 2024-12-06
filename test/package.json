@@ -1,15 +1,15 @@
 {
-  "name": "npm",
+  "name": "test",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "figlet": "^1.8.0",
-    "npm": "file:"
+    "simplecalci": "^1.0.0"
   }
 }
