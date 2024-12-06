@@ -2,7 +2,7 @@ const figlet = require('figlet');
 
 
 
-figlet("Dhruv!!", function (err, data) {
+figlet("Dhruv Gahlot!!", function (err, data) {
   if (err) {
     console.log("Something went wrong...");
     console.dir(err);
